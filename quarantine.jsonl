@@ -1,0 +1,24 @@
+{"booking_id": "B0011", "reason": "tickets.type: Input should be 'standard', 'vip' or 'student'"}
+{"booking_id": "B0016", "reason": "tickets.qty: Input should be greater than or equal to 1"}
+{"booking_id": "B0024", "reason": "student.id: String should match pattern '^\\d{2}-\\d{4}$'"}
+{"booking_id": "B0049", "reason": "event: is missing (null)"}
+{"booking_id": "B0057", "reason": "student.id: String should match pattern '^\\d{2}-\\d{4}$'"}
+{"booking_id": "B0060", "reason": "student.id: String should match pattern '^\\d{2}-\\d{4}$'"}
+{"booking_id": "B0090", "reason": "tickets.type: Input should be 'standard', 'vip' or 'student'"}
+{"booking_id": "B0101", "reason": "booking: total does not equal sum of qty x price"}
+{"booking_id": "B0106", "reason": "student.id: String should match pattern '^\\d{2}-\\d{4}$'"}
+{"booking_id": "B0116", "reason": "booking: booked_at is not before the event date"}
+{"booking_id": "B0130", "reason": "tickets: List should have at least 1 item after validation, not 0"}
+{"booking_id": "B0142", "reason": "booking: total does not equal sum of qty x price"}
+{"booking_id": "B0168", "reason": "booking: booked_at is not before the event date"}
+{"booking_id": "B0187", "reason": "event: is missing (null)"}
+{"booking_id": "B0190", "reason": "tickets: List should have at least 1 item after validation, not 0"}
+{"booking_id": "B0215", "reason": "booking: total does not equal sum of qty x price"}
+{"booking_id": "B0221", "reason": "booking: booked_at is not before the event date"}
+{"booking_id": "B0233", "reason": "booking: total does not equal sum of qty x price"}
+{"booking_id": "B0241", "reason": "tickets.type: Input should be 'standard', 'vip' or 'student'"}
+{"booking_id": "B0252", "reason": "tickets.qty: Input should be greater than or equal to 1"}
+{"booking_id": "B0278", "reason": "tickets.qty: Input should be greater than or equal to 1"}
+{"booking_id": "B0035", "reason": "duplicate booking_id"}
+{"booking_id": "B0107", "reason": "duplicate booking_id"}
+{"booking_id": "B0066", "reason": "duplicate booking_id"}
