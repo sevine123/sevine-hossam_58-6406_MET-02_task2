@@ -2,7 +2,7 @@
 
 **Name:** Sevine Hossam
 **ID:** 58-6406
-**Major / lab:** MET, P2
+**Major, lab:** MET, P2
 
 Run `pip install -r requirements.txt`, then run `task2.ipynb` top to bottom. It reads `DATA = "bookings.jsonl"` and writes `quarantine.jsonl` and the Parquet star schema in `star/`.
 
